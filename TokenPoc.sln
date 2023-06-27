@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenPoc", "TokenPoc\TokenPoc.csproj", "{750775A5-2D76-48E7-B1BB-7E7BE4BF2487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750775A5-2D76-48E7-B1BB-7E7BE4BF2487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750775A5-2D76-48E7-B1BB-7E7BE4BF2487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750775A5-2D76-48E7-B1BB-7E7BE4BF2487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750775A5-2D76-48E7-B1BB-7E7BE4BF2487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C02707C-B34F-4569-BAAC-B4C54814D350}
+	EndGlobalSection
+EndGlobal
